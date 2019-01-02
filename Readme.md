@@ -3,6 +3,8 @@
 ## Introduction
 Inspired by the layout analysis from the phone screen, we built a screenshot detection tool based on the detection of horizontal edges.
 
+Both accuracy and recall of this method are approximate 95% in test data (group photo album). 
+
 The detection steps are as follows:
 
 The original image.
